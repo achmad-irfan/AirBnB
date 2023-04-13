@@ -9,10 +9,10 @@
 <p>Make a power BI dashboard and give insight and recomendation for Air BnB </p>
 <h3>Dataset:</h3>
 <p>In this project, it used 4 csv files from Air BnB : </p>
-<a href="https://docs.google.com/spreadsheets/d/1ZNN8rY_ej7PuPiBU0oZzdwAxmgo2qCilFFJoxU5GBpE/edit?usp=sharing">Summary</a> </p>
-<a href="https://docs.google.com/spreadsheets/d/1UoY-DMx3fH1eo54qq3IJvibk6IyB1LENDZFCmCKujvs/edit?usp=sharing">Host</a> </p>
-<a href="https://docs.google.com/spreadsheets/d/1Vtd3OSjUFTfUxViO86zx-W3LfEPgKQga5JX7N73NUFw/edit?usp=sharing">Room_type</a> </p> 
-<a href="https://docs.google.com/spreadsheets/d/1fWYQWOSzzpTXhccMPfGuBHEa6NKTwUeaORmk5k99zOE/edit?usp=sharing">Neighbourhood</a> </p>
+<p> <a href="https://docs.google.com/spreadsheets/d/1ZNN8rY_ej7PuPiBU0oZzdwAxmgo2qCilFFJoxU5GBpE/edit?usp=sharing">Summary</a> </p>
+<p> <a href="https://docs.google.com/spreadsheets/d/1UoY-DMx3fH1eo54qq3IJvibk6IyB1LENDZFCmCKujvs/edit?usp=sharing">Host</a> </p>
+<p> <a href="https://docs.google.com/spreadsheets/d/1Vtd3OSjUFTfUxViO86zx-W3LfEPgKQga5JX7N73NUFw/edit?usp=sharing">Room_type</a> </p> 
+<p> <a href="https://docs.google.com/spreadsheets/d/1fWYQWOSzzpTXhccMPfGuBHEa6NKTwUeaORmk5k99zOE/edit?usp=sharing">Neighbourhood</a> </p>
 <h4>Data Manage Relationship</h4>
 <p align="center"> 
 <img src="airbnb3.png" class="img-fluid" alt="">  
