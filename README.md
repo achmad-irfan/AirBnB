@@ -17,13 +17,13 @@
 <p align="center"> 
 <img src="supermarket3.png" class="img-fluid" alt="">  
 </p>
-<h4>Page Dashboard</h4>
+<h4>Page Raw</h4>
 <p align="center"> 
-<img src="supermarket1.png" class="img-fluid" alt="">  
+<img src="airbnb1.png" class="img-fluid" alt="">  
 </p>
-<h4>Page Correlation</h4>
+<h4>Page Visualisation</h4>
 <p align="center"> 
-<img src="supermarket2.png" class="img-fluid" alt="">  
+<img src="airbnb2.png" class="img-fluid" alt="">  
 </p>
 <h3>Insight and Recomendation:</h3>
 <p> - Quality of home and lifestyle category must be improved because it have the lowest rating </p>
